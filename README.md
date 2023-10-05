@@ -4,5 +4,4 @@
 
 ## Table of Contents:
 - [Introduction](#introduction)
-..* Introduction: <a name="introduction"></a>
-
+### Introduction: <a name="introduction"></a>
