@@ -4,4 +4,13 @@
 
 ## Table of Contents:
 - [Introduction](#introduction)
-### Introduction: <a name="introduction"></a>
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction <a name="introduction"></a>
+
+This is the introduction section of the README.
+
+## Usage <a name="usage"></a>
+
+To use this application, follow these steps...
