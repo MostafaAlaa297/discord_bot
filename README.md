@@ -2,6 +2,20 @@
 
 MoodBooster is a Discord chatbot designed to boost your mood with jokes, advice, quotes, and adorable cat and dog pictures. It responds to commands and provides you with fun and uplifting content.
 
+# Table of contents
+- [Demo Video](#demo-video)
+- [Features](#features)
+- [Usage](#usage)
+  - [Introduction](#introduction)
+  - [Joke Command](#joke-command)
+  - [Quote Command](#quote-command)
+  - [Advice Command](#advice-command)
+  - [Cat Command](#cat-command)
+  - [Dog Command](#dog-command)
+- [How It Works](#how-it-works)
+- [Installation](#installation)
+- [Dependencies](#dependencies)
+
 ## Demo Video
 
 [Watch the MoodBooster demo video on YouTube](https://youtu.be/wCGPLVia_lw)
