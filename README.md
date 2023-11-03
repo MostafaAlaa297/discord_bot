@@ -65,7 +65,7 @@ Make sure to replace "7mostafaalaa" with your username in the bot's responses.
 ## Installation
 
 To add MoodBooster to your Discord server, please follow these steps:
-1. ![Click on the following link](https://discord.com/api/oauth2/authorize?client_id=1133869450626609254&permissions=429497248832&scope=bot)
+1. Click on the following link: ![](https://discord.com/api/oauth2/authorize?client_id=1133869450626609254&permissions=429497248832&scope=bot)
 2. Review bot permissions, and grant the bot those permissions.
 3. Enjoy the bot!
 
