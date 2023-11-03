@@ -19,8 +19,8 @@ MoodBooster is a Discord chatbot designed to boost your mood with jokes, advice,
 To interact with MoodBooster, use the following commands:
 
 - `$booster` or `I feel bad` or `I feel sad` or `I feel mad` (case insensitive): Get an introduction and instructions on how to use the bot.
-  - Example usage: `$booster` or `I feel bad`
-
+  - Example usage: `$booster` or `I feel bad` or `I feel sad` or `I feel mad`
+    
 - `$joke`: Receive a random joke.
   - Example usage: `$joke`
 
@@ -43,19 +43,25 @@ Make sure to replace "7mostafaalaa" with your username in the bot's responses.
 - Include images describing how each command works in the following format:
 
 ### Command: `$joke`
-![Joke Command](images/joke_command.png)
+![Joke Command](Resources/images/$joke_command.png)
 
 ### Command: `$quote`
-![Quote Command](images/quote_command.png)
+![Quote Command](Resources/images/$quote_command.png)
 
 ### Command: `$advice`
-![Advice Command](images/advice_command.png)
+![Advice Command](Resources/images/$advice_command.png)
 
 ### Command: `$cat`
-![Cat Command](images/cat_command.png)
+![Cat Command](Resources/images/cat_image.png)
+![Cat jpg](Resources/images/cat_image_jpg.png)
+![Cat png](Resources/images/cat_image_png.png)
+![Cat gif](Resources/images/cat_image_gif.png)
 
 ### Command: `$dog`
-![Dog Command](images/dog_command.png)
+![Dog Command](images/dog_image.png)
+![Dog jpg](images/dog_jpg.png)
+![Dog Command](images/dog_png.png)
+![Dog Command](images/dog_gif.png)
 
 ## Installation
 
