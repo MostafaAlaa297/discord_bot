@@ -54,36 +54,25 @@ Make sure to replace "7mostafaalaa" with your username in the bot's responses.
 ### Command: `$cat`
 ![Cat Command](Resources/images/cat_image.png)
 ![Cat jpg](Resources/images/cat_image_jpg.png)
-![Cat png](Resources/images/cat_image_png.png)
-![Cat gif](Resources/images/cat_image_gif.png)
+![Cat png](Resources/images/cat_images_gif&&png.png)
 
 ### Command: `$dog`
-![Dog Command](images/dog_image.png)
-![Dog jpg](images/dog_jpg.png)
-![Dog Command](images/dog_png.png)
-![Dog Command](images/dog_gif.png)
+![Dog Command](Resources/images/dog_image.png)
+![Dog jpg](Resources/images/dog_jpg.png)
+![Dog Command](Resources/images/dog_png.png)
+![Dog Command](Resources/images/dog_gif.png)
 
 ## Installation
 
 To add MoodBooster to your Discord server, please follow these steps:
-1. Step 1.
-2. Step 2.
-3. ...
+1. ![Click on the following link](https://discord.com/api/oauth2/authorize?client_id=1133869450626609254&permissions=429497248832&scope=bot)
+2. Review bot permissions, and grant the bot those permissions.
+3. Enjoy the bot!
 
 ## Dependencies
 
-- List any dependencies or libraries your project relies on.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow our [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [Your License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to [Your Name](mailto:youremail@example.com).
+- discord.js
+- node-fetch
+- express
 
 Happy mood-boosting with MoodBooster! 🎉
